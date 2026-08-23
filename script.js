@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-    alert("Olá! Meu JavaScript está funcionando!");
+    alert("Olá! Você clicou no botão!");
 }

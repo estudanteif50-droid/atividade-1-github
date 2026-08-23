@@ -17,6 +17,8 @@ h1 {
 
 main {
     padding: 30px;
+
+
 }
 
 .galeria {
@@ -42,4 +44,7 @@ button {
 footer {
     margin-top: 30px;
     padding: 20px;
+}
+p {
+    line-height: 1.5;
 }
